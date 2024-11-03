@@ -83,6 +83,7 @@ resolver.msg.xiaomi.net^
 access.speech.ai.xiaomi.com^
 api.ai.xiaomi.com^
 api2.mina.mi.com^
+speech.ai.xiaomi.com^
 
 ! ================= 腾讯 =================
 l.qq.com^
